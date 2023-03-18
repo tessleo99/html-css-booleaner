@@ -1,8 +1,73 @@
 .bg-blue{
-    background-color: rgb(90, 228, 182);
+    background-color: rgba(0, 174, 255, 0.562) ;
+    background-image: url(../img/pattern.png);
+    background-size:25% ;
 }
+ 
+.logo{
+    padding: 5px 100px
+ } 
+ 
+ .page{
+    padding: 25px 100px;
+ }
 
-.gray{
+
+ .gray{
     color: rgba(187, 178, 178, 0.459);
 }
+
+.white{
+    color: white;
+}
+
+.size-p{
+    font-size: 10px
+}
+
+.color-footer{
+    background-color: rgba(68, 0, 255, 0.705);
+}
+
+.copyright{
+    color: rgb(255, 255, 255); text-align: center; padding: 15px;
+}
+
+.space{
+    line-height: 0;
+}
+
+.align{
+    text-align: left;
+}
+
+.cell{
+    width: 20%;
+    height: 20%
+}
+
+.table{
+        width: 100%;
+        text-align: left;
+      }
+
+
+.table1{
+    padding: 1px;
+    background-color: rgba(15, 117, 219, 0.651);
+}
+
+.table2{
+    padding: 1px;
+    background-color: rgba(45, 45, 221, 0.26)
+}
+
+.table3{
+    padding: 1px;
+    background-color:white;
+}
+
+
+
+
 
